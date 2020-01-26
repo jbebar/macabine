@@ -1,0 +1,35 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Ma cabine point barre."
+theme = "gochowdown"
+showNavTitle = "false"
+
+[params]
+favicon_32 = "/images/bigbelly.jpg" #FIXME
+favicon = "/images/35316-2-wooden-spoon-transparent.png" #FIXME
+favicon_16 = "/images/bigbelly.jpg" #FIXME: image not shown
+
+[[menu.main]]
+name = "Accueil"
+weight = 1
+url = "/"
+
+[[menu.main]]
+name = "Catégories"
+weight = "2"
+url = "/catégories/"
+
+[[menu.main]]
+name = "Cuisine"
+weight = 3
+url = "/cuisine/"
+
+[[menu.main]]
+name = "Tags"
+weight = 4
+url = "/tags/"
+
+[taxonomies]
+"catégories" = "catégories"
+cusine = "cuisine"
+tag = "tags"
