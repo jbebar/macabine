@@ -1,2 +1,2 @@
-# surf
-Static site about surfing.
+# Macabine
+Static site about fat meals, made with hugo.
