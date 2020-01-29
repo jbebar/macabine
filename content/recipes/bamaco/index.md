@@ -3,7 +3,7 @@ layout: recipe
 date: 2020-01-23T21:04:48+01:00
 draft: false    
 title:  "Bière Noire IPA maison" # The title of your awesome recipe
-image: bamaco-recipe.jpg # Name of image in recipe bundle
+image: bamaco.jpg # Name of image in recipe bundle
 #imagecredit: https://placekitten.com/600/800 # URL to image source page, website, or creator
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author
