@@ -12,6 +12,8 @@ git add .
 git commit -m "$MSG"
 git push
 
+hugo
+
 cd public/
 
 git add .
