@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Ma cabine point barre."
 theme = "gochowdown"
 showNavTitle = "false"
+[permalinks]
+posts = "/posts/:year/:month/:title"
 
 [params]
 favicon_32 = "/images/bigbelly.jpg" #FIXME
@@ -16,7 +18,7 @@ url = "/"
 
 [[menu.main]]
 name = "Catégories"
-weight = "2"
+weight = 2
 url = "/catégories/"
 
 [[menu.main]]

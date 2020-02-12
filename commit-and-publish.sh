@@ -1,3 +1,6 @@
+#!/bin/sh
+set -e
+
 export MSG=$1
 
 if [ ${#MSG} == 0 ]
@@ -19,3 +22,5 @@ cd public/
 git add .
 git commit -m "Published: $MSG"
 git push
+
+cd ..
