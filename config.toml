@@ -2,14 +2,14 @@ baseURL = "https://wwww.macabine.bar/"
 languageCode = "en-us"
 title = "Ma cabine point barre."
 theme = "gochowdown"
-showNavTitle = "false"
+showNavTitle = "true"
 [permalinks]
 posts = "/posts/:year/:month/:title"
 
 [params]
-favicon_32 = "/images/bigbelly.jpg" #FIXME
-favicon = "/images/35316-2-wooden-spoon-transparent.png" #FIXME
-favicon_16 = "/images/bigbelly.jpg" #FIXME: image not shown
+favicon_32 = "/bigbelly-redimensionne.jpg" #FIXME
+favicon = "/bigbelly-redimensionne.jpg" #FIXME
+favicon_16 = "/bigbelly-redimensionne.jpg" #FIXME: image not shown
 
 [[menu.main]]
 name = "Accueil"
