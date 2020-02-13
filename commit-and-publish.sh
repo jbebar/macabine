@@ -11,16 +11,12 @@ else
     echo "Adding and commiting files with commit message : $MSG"
 fi
 
-git add .
-git commit -m "$MSG"
-git push
-
 hugo
 
 cd public/
 
 git add .
-git commit -m "Published: $MSG"
+git commit -m $MSG
 git push
 
 cd ..
