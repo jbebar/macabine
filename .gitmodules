@@ -1,0 +1,3 @@
+[submodule "themes/gochowdown"]
+	path = themes/gochowdown
+	url = git@github.com:jbebar/gochowdown.git
