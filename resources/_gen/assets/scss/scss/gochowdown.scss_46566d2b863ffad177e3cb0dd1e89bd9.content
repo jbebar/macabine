@@ -1569,7 +1569,7 @@ img {
   line-height: 0; }
 
 .bg-blue-tile {
-  background: #007FFF url("http://localhost:1313/assets/bigbelly-redimensionne.jpg");
+  background: #007FFF url("http://localhost:46393/assets/tile.png");
   position: relative; }
 
 @media all and (min-width: 40em) {
@@ -1769,9 +1769,7 @@ a:hover .image {
 
 .navigation {
   width: 100%;
-  background-image: url("http://localhost:1313/assets/bigbelly-redimensionne.jpg");
-  background-repeat: no-repeat;
-  background-color: #c0a925;
+  background-image: url("http://localhost:46393/assets/tile.png");
   padding: 1rem 0; }
   .navigation a, .navigation span {
     display: inline;
