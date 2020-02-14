@@ -1770,6 +1770,8 @@ a:hover .image {
 .navigation {
   width: 100%;
   background-image: url("http://localhost:1313/assets/bigbelly-redimensionne.jpg");
+  background-repeat: no-repeat;
+  background-color: #c0a925;
   padding: 1rem 0; }
   .navigation a, .navigation span {
     display: inline;
