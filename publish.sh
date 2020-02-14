@@ -16,7 +16,7 @@ hugo
 cd public/
 
 git add .
-git commit -m $MSG
+git commit -m "$MSG"
 git push
 
 cd ..
