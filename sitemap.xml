@@ -13,7 +13,17 @@
   </url>
   
   <url>
+    <loc>https://www.macabine.bar/cat%C3%A9gories/boisson/</loc>
+    <lastmod>2020-01-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.macabine.bar/tags/boisson/</loc>
+    <lastmod>2020-01-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/cat%C3%A9gories/</loc>
     <lastmod>2020-01-23T21:04:48+01:00</lastmod>
   </url>
   
@@ -35,14 +45,6 @@
   <url>
     <loc>https://www.macabine.bar/tags/</loc>
     <lastmod>2020-01-23T21:04:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.macabine.bar/cat%C3%A9gories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.macabine.bar/cuisine/</loc>
   </url>
   
 </urlset>
