@@ -10,8 +10,7 @@ authorName: # Name of the recipe/article author
 authorURL: # URL of their home website
 sourceName: # Name of the source website
 sourceURL: # Actual URL of the recipe itself
-category: boisson # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
-cuisine: 
+catégories: boisson # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
 tags:
   - bière
   - houblon
