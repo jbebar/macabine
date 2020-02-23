@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ma cabine point barre.</title>
-    <link>https://www.macabine.bar/</link>
-    <description>Recent content on Ma cabine point barre.</description>
+    <title>fruit de mer on Ma cabine point barre.</title>
+    <link>https://www.macabine.bar/tags/fruit-de-mer/</link>
+    <description>Recent content in fruit de mer on Ma cabine point barre.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Feb 2020 21:04:48 +0100</lastBuildDate>
     
-	<atom:link href="https://www.macabine.bar/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.macabine.bar/tags/fruit-de-mer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
       <guid>https://www.macabine.bar/recipes/beignet-calamar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bière Noire IPA maison</title>
-      <link>https://www.macabine.bar/recipes/bamaco/</link>
-      <pubDate>Thu, 23 Jan 2020 21:04:48 +0100</pubDate>
-      
-      <guid>https://www.macabine.bar/recipes/bamaco/</guid>
       <description></description>
     </item>
     
