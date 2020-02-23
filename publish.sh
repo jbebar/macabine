@@ -1,7 +1,7 @@
 #!/bin/sh
 set -e
 
-export MSG=$1
+MSG=$1
 
 if [ ${#MSG} == 0 ]
 then
