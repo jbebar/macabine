@@ -1771,10 +1771,9 @@ a:hover .image {
   width: 100%;
   background-image: url("http://localhost:1313/assets/bigbelly-redimensionne.jpg");
   background-repeat: no-repeat;
-  background-color: #f56b2a;
-  padding: 1rem 30 30; }
-  .navigation a,
-  .navigation span {
+  background-color: #c0a925;
+  padding: 1rem 0; }
+  .navigation a, .navigation span {
     display: inline;
     font-size: 1.2rem;
     font-family: Arial, sans-serif;
@@ -1811,12 +1810,18 @@ a:hover .image {
         margin-left: auto;
         margin-right: auto; } }
   .navigation .nav-center {
-    text-align: center;
     display: flex;
+    align-items: center;
     justify-content: center; }
+    .navigation .nav-center a {
+      margin-left: 10px; }
+    .navigation .nav-center a:first-child {
+      margin-left: 0; }
+    .navigation .nav-center a:last-child {
+      padding-right: 1rem; }
     @media screen and (max-width: 48em) {
       .navigation .nav-center {
-        margin: 10px 0; } }
+        margin: 15px 0; } }
   .navigation .nav-right {
     display: flex;
     align-items: center;
