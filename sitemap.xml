@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://www.macabine.bar/cat%C3%A9gories/boisson-entr%C3%A9e/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.macabine.bar/cat%C3%A9gories/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
@@ -23,12 +28,22 @@
   </url>
   
   <url>
+    <loc>https://www.macabine.bar/tags/frais/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.macabine.bar/tags/friture/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.macabine.bar/tags/fruit-de-mer/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/recipes/gaspacho/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
@@ -53,7 +68,22 @@
   </url>
   
   <url>
+    <loc>https://www.macabine.bar/tags/sain/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.macabine.bar/tags/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/tags/tomate/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/tags/%C3%A9pic%C3%A9/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
