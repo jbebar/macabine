@@ -13,7 +13,7 @@
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/cat%C3%A9gories/boisson-entr%C3%A9e/</loc>
+    <loc>https://www.macabine.bar/cat%C3%A9gories/boisson/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
@@ -53,12 +53,12 @@
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/cat%C3%A9gories/poisson/</loc>
+    <loc>https://www.macabine.bar/tags/poisson/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/tags/poisson/</loc>
+    <loc>https://www.macabine.bar/cat%C3%A9gories/poisson/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
@@ -85,31 +85,6 @@
   <url>
     <loc>https://www.macabine.bar/tags/%C3%A9pic%C3%A9/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.macabine.bar/tags/bi%C3%A8re/</loc>
-    <lastmod>2020-01-23T21:04:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.macabine.bar/recipes/bamaco/</loc>
-    <lastmod>2020-01-23T21:04:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.macabine.bar/cat%C3%A9gories/boisson/</loc>
-    <lastmod>2020-01-23T21:04:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.macabine.bar/tags/boisson/</loc>
-    <lastmod>2020-01-23T21:04:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.macabine.bar/tags/houblon/</loc>
-    <lastmod>2020-01-23T21:04:48+01:00</lastmod>
   </url>
   
 </urlset>
