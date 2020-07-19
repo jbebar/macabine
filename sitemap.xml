@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.macabine.bar/tags/accompagement/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.macabine.bar/tags/ap%C3%A9ro/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
@@ -34,6 +39,21 @@
   
   <url>
     <loc>https://www.macabine.bar/recipes/cheese-naans/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/tags/cr%C3%A8pes/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/recipes/crepes-parmentier/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/cat%C3%A9gories/dessert/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
@@ -93,12 +113,22 @@
   </url>
   
   <url>
+    <loc>https://www.macabine.bar/tags/pomme-de-terre/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.macabine.bar/recipes/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.macabine.bar/tags/sain/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/tags/sucr%C3%A9/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
