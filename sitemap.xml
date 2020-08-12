@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.macabine.bar/tags/accompagement/</loc>
+    <loc>https://www.macabine.bar/tags/accompagnement/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.macabine.bar/tags/ap%C3%A9ro/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/cat%C3%A9gories/ap%C3%A9ro/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
@@ -33,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://www.macabine.bar/tags/canard/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.macabine.bar/cat%C3%A9gories/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
@@ -48,6 +58,21 @@
   </url>
   
   <url>
+    <loc>https://www.macabine.bar/recipes/compote-p%C3%AAche-amande/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/recipes/couscous/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/recipes/croziflette/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.macabine.bar/tags/cr%C3%A8pes/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
@@ -58,17 +83,37 @@
   </url>
   
   <url>
+    <loc>https://www.macabine.bar/recipes/curry-courgette-semoule/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/tags/dessert/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.macabine.bar/cat%C3%A9gories/dessert/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/tags/favorites/</loc>
+    <loc>https://www.macabine.bar/tags/easy/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/tags/frais/</loc>
+    <loc>https://www.macabine.bar/tags/fat/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/tags/favorite/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/tags/favorites/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
@@ -83,6 +128,11 @@
   </url>
   
   <url>
+    <loc>https://www.macabine.bar/tags/fruit/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.macabine.bar/tags/fruit-de-mer/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
@@ -93,12 +143,27 @@
   </url>
   
   <url>
+    <loc>https://www.macabine.bar/recipes/gratin-macaronis/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.macabine.bar/tags/healthy/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/tags/inde/</loc>
+    <loc>https://www.macabine.bar/tags/helthy/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/recipes/flageolets-julien/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/tags/l%C3%A9gumineuse/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
@@ -108,17 +173,22 @@
   </url>
   
   <url>
+    <loc>https://www.macabine.bar/tags/mezze/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.macabine.bar/tags/oriental/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/cat%C3%A9gories/oriental/</loc>
+    <loc>https://www.macabine.bar/tags/pain/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/tags/pain/</loc>
+    <loc>https://www.macabine.bar/cat%C3%A9gories/plat/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
@@ -143,7 +213,32 @@
   </url>
   
   <url>
+    <loc>https://www.macabine.bar/recipes/pur%C3%A9e-carotte-cumin/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/tags/p%C3%A2te/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/recipes/quiche-sans-pate/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.macabine.bar/recipes/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/recipes/risotto-roquefort-magret/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/tags/riz/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
@@ -163,12 +258,27 @@
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/recipes/salade-estivale/</loc>
+    <loc>https://www.macabine.bar/recipes/salade-capucins/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/recipes/samoussas-tomates-chorizzo/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.macabine.bar/tags/sucr%C3%A9/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/tags/sucr%C3%A9-sal%C3%A9/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/tags/summer/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
@@ -183,7 +293,17 @@
   </url>
   
   <url>
+    <loc>https://www.macabine.bar/recipes/tartare-thon/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.macabine.bar/tags/tomate/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/tags/veggie/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
@@ -194,6 +314,11 @@
   
   <url>
     <loc>https://www.macabine.bar/cat%C3%A9gories/viande/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/tags/winter/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
