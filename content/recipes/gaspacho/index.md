@@ -12,7 +12,7 @@ sourceName: # Name of the source website
 sourceURL: # Actual URL of the recipe itself
 catégories: boisson # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
 tags:
-  - frais
+  - fresh
   - sain
   - tomate
   - épicé

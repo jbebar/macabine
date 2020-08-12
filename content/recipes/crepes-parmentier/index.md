@@ -14,7 +14,7 @@ catégories: dessert # The type of meal or course your recipe is about. For exam
 tags:
   - crèpes 
   - sucré 	
-  - accompagement
+  - accompagnement
   - pomme de terre
 yield: 5 euros
 prepTime: 10 min

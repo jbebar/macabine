@@ -10,12 +10,12 @@ authorName: # Name of the recipe/article author
 authorURL: # URL of their home website
 sourceName: # Name of the source website
 sourceURL: https://www.hervecuisine.com/recette/naan-au-fromage-indien/
-catégories: oriental # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
+catégories: apéro # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
 tags:
   - pain
   - cheese
   - apéro
-  - inde
+  - oriental
 yield: 4 euros
 prepTime: 3 h
 cookTime: 30 min
