@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hamburger on Ma cabine point barre.</title>
+    <link>https://www.macabine.bar/tags/hamburger/</link>
+    <description>Recent content in hamburger on Ma cabine point barre.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jan 2020 21:04:48 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.macabine.bar/tags/hamburger/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hamburger steak, légumes d&#39;été et oeufs de lompe</title>
+      <link>https://www.macabine.bar/recipes/hamburger-steak-aubergine/</link>
+      <pubDate>Thu, 23 Jan 2020 21:04:48 +0100</pubDate>
+      
+      <guid>https://www.macabine.bar/recipes/hamburger-steak-aubergine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Summer on Ma cabine point barre.</title>
+    <title>summer on Ma cabine point barre.</title>
     <link>https://www.macabine.bar/tags/summer/</link>
-    <description>Recent content in Summer on Ma cabine point barre.</description>
+    <description>Recent content in summer on Ma cabine point barre.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Feb 2020 21:04:48 +0100</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>Purée carotte &amp; cumin</title>
-      <link>https://www.macabine.bar/recipes/pur%C3%A9e-carotte-cumin/</link>
+      <link>https://www.macabine.bar/recipes/puree-carotte-cumin/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
-      <guid>https://www.macabine.bar/recipes/pur%C3%A9e-carotte-cumin/</guid>
+      <guid>https://www.macabine.bar/recipes/puree-carotte-cumin/</guid>
       <description></description>
     </item>
     
@@ -26,6 +26,15 @@
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
       <guid>https://www.macabine.bar/recipes/salade-capucins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samoussas tomates-chorizzo</title>
+      <link>https://www.macabine.bar/recipes/samoussas-tomates-chorizzo/</link>
+      <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
+      
+      <guid>https://www.macabine.bar/recipes/samoussas-tomates-chorizzo/</guid>
       <description></description>
     </item>
     

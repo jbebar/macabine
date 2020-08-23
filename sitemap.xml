@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/recipes/compote-p%C3%AAche-amande/</loc>
+    <loc>https://www.macabine.bar/recipes/compote-peche-amande/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
@@ -113,11 +113,6 @@
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/tags/favorites/</loc>
-    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.macabine.bar/tags/fresh/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
@@ -149,11 +144,6 @@
   
   <url>
     <loc>https://www.macabine.bar/tags/healthy/</loc>
-    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.macabine.bar/tags/helthy/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
@@ -213,7 +203,7 @@
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/recipes/pur%C3%A9e-carotte-cumin/</loc>
+    <loc>https://www.macabine.bar/recipes/puree-carotte-cumin/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
@@ -239,11 +229,6 @@
   
   <url>
     <loc>https://www.macabine.bar/tags/riz/</loc>
-    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.macabine.bar/tags/sain/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
@@ -283,17 +268,17 @@
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/tags/summmer/</loc>
-    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.macabine.bar/tags/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.macabine.bar/recipes/tartare-thon/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/cat%C3%A9gories/tarte/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
@@ -325,6 +310,36 @@
   <url>
     <loc>https://www.macabine.bar/tags/%C3%A9pic%C3%A9/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/tags/hamburger/</loc>
+    <lastmod>2020-01-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/recipes/hamburger-steak-aubergine/</loc>
+    <lastmod>2020-01-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/tags/l%C3%A9gumes/</loc>
+    <lastmod>2020-01-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/recipes/paupiettes-legumes/</loc>
+    <lastmod>2020-01-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/tags/printemps/</loc>
+    <lastmod>2020-01-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/recipes/tarte-au-fromage-blanc/</loc>
+    <lastmod>2020-01-23T21:04:48+01:00</lastmod>
   </url>
   
 </urlset>

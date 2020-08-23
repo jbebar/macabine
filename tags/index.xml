@@ -102,15 +102,6 @@
     </item>
     
     <item>
-      <title>favorites</title>
-      <link>https://www.macabine.bar/tags/favorites/</link>
-      <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
-      
-      <guid>https://www.macabine.bar/tags/favorites/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>fresh</title>
       <link>https://www.macabine.bar/tags/fresh/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
@@ -147,20 +138,11 @@
     </item>
     
     <item>
-      <title>Healthy</title>
+      <title>healthy</title>
       <link>https://www.macabine.bar/tags/healthy/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
       <guid>https://www.macabine.bar/tags/healthy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>helthy</title>
-      <link>https://www.macabine.bar/tags/helthy/</link>
-      <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
-      
-      <guid>https://www.macabine.bar/tags/helthy/</guid>
       <description></description>
     </item>
     
@@ -246,16 +228,7 @@
     </item>
     
     <item>
-      <title>sain</title>
-      <link>https://www.macabine.bar/tags/sain/</link>
-      <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
-      
-      <guid>https://www.macabine.bar/tags/sain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Salade</title>
+      <title>salade</title>
       <link>https://www.macabine.bar/tags/salade/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
@@ -273,7 +246,7 @@
     </item>
     
     <item>
-      <title>Sucré-salé</title>
+      <title>sucré-salé</title>
       <link>https://www.macabine.bar/tags/sucr%C3%A9-sal%C3%A9/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
@@ -282,20 +255,11 @@
     </item>
     
     <item>
-      <title>Summer</title>
+      <title>summer</title>
       <link>https://www.macabine.bar/tags/summer/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
       <guid>https://www.macabine.bar/tags/summer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>summmer</title>
-      <link>https://www.macabine.bar/tags/summmer/</link>
-      <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
-      
-      <guid>https://www.macabine.bar/tags/summmer/</guid>
       <description></description>
     </item>
     
@@ -341,6 +305,33 @@
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
       <guid>https://www.macabine.bar/tags/%C3%A9pic%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hamburger</title>
+      <link>https://www.macabine.bar/tags/hamburger/</link>
+      <pubDate>Thu, 23 Jan 2020 21:04:48 +0100</pubDate>
+      
+      <guid>https://www.macabine.bar/tags/hamburger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>légumes</title>
+      <link>https://www.macabine.bar/tags/l%C3%A9gumes/</link>
+      <pubDate>Thu, 23 Jan 2020 21:04:48 +0100</pubDate>
+      
+      <guid>https://www.macabine.bar/tags/l%C3%A9gumes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>printemps</title>
+      <link>https://www.macabine.bar/tags/printemps/</link>
+      <pubDate>Thu, 23 Jan 2020 21:04:48 +0100</pubDate>
+      
+      <guid>https://www.macabine.bar/tags/printemps/</guid>
       <description></description>
     </item>
     
