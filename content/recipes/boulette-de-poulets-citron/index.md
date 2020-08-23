@@ -15,7 +15,7 @@ tags:
   - poulet
   - viande
   - oriental
-  - favorites
+  - favorite
 yield: 3 euros
 prepTime: 10 min
 cookTime: 10 min

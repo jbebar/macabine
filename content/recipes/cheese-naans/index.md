@@ -16,6 +16,7 @@ tags:
   - cheese
   - apéro
   - oriental
+  - veggie
 yield: 4 euros
 prepTime: 3 h
 cookTime: 30 min

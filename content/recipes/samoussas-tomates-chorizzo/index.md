@@ -14,7 +14,7 @@ catégories: apéro # The type of meal or course your recipe is about. For examp
 tags:
   - apéro
   - oriental
-  - summmer
+  - summer
 yield: 4 euros
 prepTime: 10 min
 cookTime: 7 min

@@ -13,9 +13,10 @@ sourceURL: # Actual URL of the recipe itself
 catégories: boisson # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
 tags:
   - fresh
-  - sain
+  - healthy
   - tomate
   - épicé
+  - veggie
 yield: 5 euros
 prepTime: 15 min
 cookTime: 0 min

@@ -10,7 +10,7 @@ authorName: # Name of the recipe/article author
 authorURL: # URL of their home website
 sourceName: # Name of the source website
 sourceURL: https://www.hervecuisine.com/recette/naan-au-fromage-indien/
-catégories: plat # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
+catégories: tarte # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
 tags:
   - easy
 yield: 5 euros
@@ -28,7 +28,7 @@ ingredients:
   - Sel & poivre
   - Beurre
 directions:
-  - Préchauffez le four à &80°
+  - Préchauffez le four à 180°
   - Dans un récipient mélangez, les oeufs avec la farine. Ajoutez la crème liquide et le lait. 
   - Découpez les tranches de jambon et l'oignon. Ajoutez-les dans la prépartation avec le gruyère. 
   - Salez et poivrez. 

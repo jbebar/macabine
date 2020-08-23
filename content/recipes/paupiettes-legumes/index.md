@@ -1,9 +1,9 @@
 ---
 layout: recipe
 date: 2020-01-23T21:04:48+01:00
-draft: true    
+draft: false    
 title:  "Paupiettes aux légumes" # The title of your awesome recipe
-image: paupiettes-légumes.jpg # Name of image in recipe bundle
+image: paupiettes-legumes.jpg # Name of image in recipe bundle
 #imagecredit: https://placekitten.com/600/800 # URL to image source page, website, or creator
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author
@@ -15,7 +15,7 @@ tags:
   - viande
   - légumes
   - printemps
-  - favorites
+  - favorite
 yield: 10€
 prepTime: 1h20
 cookTime: 1h00

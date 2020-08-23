@@ -16,7 +16,7 @@ tags:
   - fat
   - winter
   - canard
-  - favorites
+  - favorite
 yield: 15 euros
 prepTime: 75 min
 cookTime: 25 min
@@ -39,4 +39,5 @@ directions:
 - Assaisonez avec du sel et du poivre si nécessaire
 - En parallèle, faites saisir le magret dans un casserole. En commençant par le côté "gras". 5-7 minutes par côté suffisent pour le cuire. 
 - Et à table ! 
+- PS, dédicace au chef Nicolas Barbéoo de Sao Paolooo ! 
 ---

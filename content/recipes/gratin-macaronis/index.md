@@ -14,7 +14,7 @@ catégories: plat # The type of meal or course your recipe is about. For example
 tags:
   - pâte
   - fat
-  - favorites
+  - favorite
 yield:  5 euros
 prepTime: 35 min
 cookTime: 30 min

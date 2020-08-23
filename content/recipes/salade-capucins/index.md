@@ -12,10 +12,11 @@ sourceName: # Name of the source website
 sourceURL: # Actual URL of the recipe itself
 catégories: salade # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
 tags:
-  - Fresh
-  - Healthy
-  - Salade
-  - Summer
+  - fresh
+  - healthy
+  - salade
+  - summer
+  - veggie
 yield: 6 euros
 prepTime: 10 min
 cookTime: 0 min

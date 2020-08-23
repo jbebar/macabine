@@ -16,6 +16,7 @@ tags:
   - sucré 	
   - accompagnement
   - pomme de terre
+  - veggie
 yield: 5 euros
 prepTime: 10 min
 cookTime: 15 min

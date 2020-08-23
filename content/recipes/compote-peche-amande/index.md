@@ -13,8 +13,9 @@ sourceURL: https://www.hervecuisine.com/recette/naan-au-fromage-indien/
 catégories: dessert # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
 tags:
   - dessert
-  - helthy
+  - healthy
   - fruit
+  - veggie
 yield: 1 euro
 prepTime: 10 h
 cookTime: 10 min

@@ -12,9 +12,9 @@ sourceName: # Name of the source website
 sourceURL: https://www.hervecuisine.com/recette/naan-au-fromage-indien/
 catégories: poisson # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
 tags:
-  - Poisson
-  - Fresh
-  - Sucré-salé
+  - poisson
+  - fresh
+  - sucré-salé
 yield: 15 euros
 prepTime: 20 h
 cookTime: 0 min

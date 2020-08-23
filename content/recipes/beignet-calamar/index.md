@@ -15,7 +15,7 @@ tags:
   - friture
   - beignet
   - poisson
-  - favorites
+  - favorite
   - fruit de mer
 yield: 5 euros
 prepTime: 10 min
