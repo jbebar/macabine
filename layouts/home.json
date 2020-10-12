@@ -1,0 +1,7 @@
+[
+    {{ $len := (len .Site.RegularPages) }}
+    {{ range $index, $e := .Site.RegularPages }}
+        {{ dict "title" .Title "ingredients" .Params.Ingredients | jsonify }}
+        {{ if lt (add $index 1) $len }} , {{ end }}
+    {{ end}}
+]

@@ -30,3 +30,6 @@ url = "/tags/"
 [taxonomies]
 "catégories" = "catégories"
 tag = "tags"
+
+[outputs]
+home = ["json", "html"]
