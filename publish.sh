@@ -15,7 +15,6 @@ hugo
 
 cd public/
 
-git checkout gh-pages
 git add .
 git commit -m "$msg"
 git push
