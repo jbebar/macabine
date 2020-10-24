@@ -16,7 +16,9 @@ jobs:
       # Checks out a copy of your repository on the ubuntu-latest machine
       - name: Checkout code
         uses: actions/checkout@v2
-      - name: Test output
-        run: echo "hello world"
+      - name: Install hugo
+        run: |
+          sudo apt-get update
+          sudo apt-get install hugo
       - name: Check files
         run: ls
