@@ -16,6 +16,8 @@ jobs:
       # Checks out a copy of your repository on the ubuntu-latest machine
       - name: Checkout code
         uses: actions/checkout@v2
+      - name: Where am I?
+        run: pwd
       - name: Install hugo
         run: |
           sudo apt-get update
@@ -24,5 +26,3 @@ jobs:
         run: hugo
       - name: check Build
         run: |
-          cd public
-          ls
