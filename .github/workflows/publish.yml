@@ -28,10 +28,10 @@ jobs:
         working-directory: /home/runner/work/macabine
       - name: Build website
         run: |
-          hugo --source ./macabine --destination ./home/runner/work/macabine/macabine-build
+          hugo --source ./macabine --destination /home/runner/work/macabine/macabine-build
         working-directory: /home/runner/work/macabine
       - name: Push to gh-pages
         run: |
           ls -a
           git status
-        working-directory: ./home/runner/work/macabine/macabine-build
+        working-directory: /home/runner/work/macabine/macabine-build
