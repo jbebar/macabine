@@ -32,8 +32,5 @@ jobs:
         working-directory: /home/runner/work/macabine
       - name: Push to gh-pages
         run: | 
-          git status
-          git commit -am
-          git checkout -b test-branch
-          git push --set-upstream origin test-branch
+          ls
         working-directory: ./home/runner/work/macabine/macabine-build
