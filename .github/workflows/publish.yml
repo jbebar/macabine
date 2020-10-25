@@ -30,8 +30,10 @@ jobs:
         run: |
           hugo --source ./macabine --destination ./home/runner/work/macabine/macabine-build
         working-directory: /home/runner/work/macabine
-      - name: List built 
+      - name: Push to gh-pages
         run: | 
-          ls
-          pwd
           git status
+          git commit -am
+          git checkout -b test-branch
+          git push --set-upstream origin test-branch
+        working-directory: ./home/runner/work/macabine/macabine-build
