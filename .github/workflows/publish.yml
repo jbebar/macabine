@@ -27,6 +27,8 @@ jobs:
           cd macabine-build
           git checkout gh-pages
           cd ..
+          pwd
+          ls
       - name: Build website
         run: |
           pwd
