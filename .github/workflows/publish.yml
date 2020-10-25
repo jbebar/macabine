@@ -34,8 +34,8 @@ jobs:
         run: |
           ls -a
           git status
-          git config --global user.name "John Doe"
-          git config --global user.email johndoe@example.com
+          git config --global user.name "JBebar"
+          git remote set-url --push origin https://jbebar:${{ secrets.GITHUB_TOKEN }}@github.com/jbebar/macabine.git
           git checkout -b test-push
           git commit -am "test commit"
           git push --set-upstream origin test-push
