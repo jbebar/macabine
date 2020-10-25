@@ -37,4 +37,5 @@ jobs:
           git config --global user.name "the-CI-bot"
           git remote set-url --push origin https://jbebar:${{ secrets.GITHUB_TOKEN }}@github.com/jbebar/macabine.git
           git commit -am "Update site"
+          git push --set-upstream origin gh-pages
         working-directory: /home/runner/work/macabine/macabine-build
