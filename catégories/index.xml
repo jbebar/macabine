@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Catégories on Ma cabine point barre.</title>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>apéro</title>
+      <title>Apéro</title>
       <link>https://www.macabine.bar/cat%C3%A9gories/ap%C3%A9ro/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>boisson</title>
+      <title>Boisson</title>
       <link>https://www.macabine.bar/cat%C3%A9gories/boisson/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>dessert</title>
+      <title>Dessert</title>
       <link>https://www.macabine.bar/cat%C3%A9gories/dessert/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
@@ -39,7 +39,7 @@
     </item>
     
     <item>
-      <title>plat</title>
+      <title>Plat</title>
       <link>https://www.macabine.bar/cat%C3%A9gories/plat/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
@@ -48,7 +48,7 @@
     </item>
     
     <item>
-      <title>poisson</title>
+      <title>Poisson</title>
       <link>https://www.macabine.bar/cat%C3%A9gories/poisson/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
@@ -57,7 +57,7 @@
     </item>
     
     <item>
-      <title>salade</title>
+      <title>Salade</title>
       <link>https://www.macabine.bar/cat%C3%A9gories/salade/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
@@ -66,7 +66,7 @@
     </item>
     
     <item>
-      <title>tarte</title>
+      <title>Tarte</title>
       <link>https://www.macabine.bar/cat%C3%A9gories/tarte/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
@@ -75,7 +75,7 @@
     </item>
     
     <item>
-      <title>viande</title>
+      <title>Viande</title>
       <link>https://www.macabine.bar/cat%C3%A9gories/viande/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
