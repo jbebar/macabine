@@ -28,8 +28,8 @@ jobs:
           git checkout gh-pages
       - name: Build website
         run: |
-          pwd
+          ls
           hugo --source ./macabine --destination ./macabine-build
-        working-directory: /home/macabine
+        working-directory: /home/runner/work/macabine
       - name: List built files
-        run: ls ./home/macabine/macabine-build
+        run: ls ./home/runner/work/macabine/macabine-build
