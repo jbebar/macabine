@@ -22,16 +22,14 @@ jobs:
           sudo apt-get install hugo
       - name: Checkout gh-pages branch
         run: |
-          cd ..
           git clone https://github.com/jbebar/macabine.git macabine-build
           cd macabine-build
           git checkout gh-pages
-          cd ..
-          pwd
-          ls
+        working-directory: /home/macabine
       - name: Build website
         run: |
           pwd
           hugo --source ./macabine --destination ./macabine-build
+        working-directory: /home/macabine
       - name: List built files
-        run: ls ./macabine-build
+        run: ls ./home/macabine/macabine-build
