@@ -33,4 +33,11 @@ jobs:
           ls
         working-directory: /home/runner/work/macabine
       - name: List built files
-        run: ls /home/runner/work/macabine/macabine-build
+        run: | 
+          ls
+          pwd
+        working-directory: /home/runner/work/macabine
+      - name: List built 
+        run: | 
+          ls
+          pwd
