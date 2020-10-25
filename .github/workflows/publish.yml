@@ -34,4 +34,9 @@ jobs:
         run: |
           ls -a
           git status
+          git config --global user.name "John Doe"
+          git config --global user.email johndoe@example.com
+          git checkout -b test-push
+          git commit -am "test commit"
+          git push --set-upstream origin test-push
         working-directory: /home/runner/work/macabine/macabine-build
