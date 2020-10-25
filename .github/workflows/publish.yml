@@ -30,13 +30,11 @@ jobs:
         run: |
           hugo --source ./macabine --destination /home/runner/work/macabine/macabine-build
         working-directory: /home/runner/work/macabine
-      - name: Push to gh-pages
+      - name: Push to gh-pages branch
         run: |
           ls -a
           git status
-          git config --global user.name "JBebar"
+          git config --global user.name "the-CI-bot"
           git remote set-url --push origin https://jbebar:${{ secrets.GITHUB_TOKEN }}@github.com/jbebar/macabine.git
-          git checkout -b test-push
-          git commit -am "test commit"
-          git push --set-upstream origin test-push
+          git commit -am "Update site"
         working-directory: /home/runner/work/macabine/macabine-build
