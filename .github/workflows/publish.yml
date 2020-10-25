@@ -30,14 +30,8 @@ jobs:
         run: |
           hugo --source ./macabine --destination ./home/runner/work/macabine/macabine-build
         working-directory: /home/runner/work/macabine
-      - name: List built files
-        run: |
-          ls
-          pwd
-        working-directory: /home/runner/work/macabine/macabine-build
       - name: List built 
         run: | 
           ls
           pwd
           git status
-          hugo server
