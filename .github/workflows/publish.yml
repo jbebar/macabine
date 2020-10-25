@@ -16,13 +16,18 @@ jobs:
       # Checks out a copy of your repository on the ubuntu-latest machine
       - name: Checkout code
         uses: actions/checkout@v2
-      - name: Where am I?
-        run: pwd
       - name: Install hugo
         run: |
           sudo apt-get update
           sudo apt-get install hugo
-      - name: Build webstie
-        run: hugo
-      - name: check Build
+      - name: Checkout gh-pages branch
         run: |
+          cd ..
+          git clone https://github.com/jbebar/macabine.git macabine-build
+          cd macabine-build
+          git checkout gh-pages
+          cd ..
+      - name: Build website
+        run: hugo --source ./macabine --destination ./macabine-build
+      - name: List built files
+        run: ls ./macabine-build
