@@ -25,7 +25,6 @@ jobs:
           git clone https://github.com/jbebar/macabine.git macabine-build
           cd macabine-build
           git checkout gh-pages
-        working-directory: /home/macabine
       - name: Build website
         run: |
           pwd
