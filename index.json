@@ -7,6 +7,9 @@
         {"ingredients":["2 blancs de poulet","1 oeuf","1 jus de citron","Zeste de citron","2 biscottes, ou 4 cuillères de panure","Herbes de provence","Sel \u0026 poivre","huile d'olive","1 yaourt blanc"],"title":"Boulettes citronées au poulet"}
          , 
     
+        {"ingredients":["300g de beurre","500g de chocolat noir","500g de sucre","100g de farine","150g de noisettes","150g d'amande","3 pincées de fleur de sel"],"title":"Brownie"}
+         , 
+    
         {"ingredients":["500 g de farine de blé","18 cl d’eau","125 g de yaourt bulgare (soit 1 pot)","4 c. à soupe d’huile végétale","1 c. à café de sel","1 c. à café de sucre","2 pincée de levure chimique","8 g de levure boulanger","12 portions de vache qui rit (2 par naans)"],"title":"Cheese Naans Cévenols"}
          , 
     
@@ -31,7 +34,16 @@
         {"ingredients":["1 paquet de macaroni","1 pot de crème fraiche","1 paquet de gruyère","1 ou 2 barquettes de lardon","Sel \u0026 poivre","4 biscottes, ou panure"],"title":"Gratin de macaroni de Mémé Guiguitte"}
          , 
     
+        {"ingredients":["75g de beurre","100g de farine","25g de cacao","1 càc de levure","90g de sucre","40ml de lait","1 pomme (170g)"],"title":"Gâteau au chocolat de Valeriya"}
+         , 
+    
         {"ingredients":["1 boite de flageolets","1 barquette de lardons","1 cuilère à soupe de graisse canard (ou deux pour les gourmands)","1/2 oignon","1 gousse d'ail","Sel \u0026 poivre"],"title":"Les flageolets de Julien"}
+         , 
+    
+        {"ingredients":["260g de farine","1/2 sachet de levure chimique","2 oeufs","125 ml de lait","500g de compote de pommes","1 filet de vanille liquide","1 pincée de sel"],"title":"Les pancakes de Megan Vlt"}
+         , 
+    
+        {"ingredients":["4 oeufs (3 jaunes, 4 blancs)","200g de chocolat noir","1 café expresso"],"title":"Mousse au chocolat"}
          , 
     
         {"ingredients":["500g de carottes","2 cuillères à café de cumin (moulu ou en grain)","Sel \u0026 poivre","Un filet d'huile d'olive"],"title":"Purée carotte \u0026 cumin"}
@@ -43,6 +55,9 @@
         {"ingredients":["300g de riz à risotto","100g de roquefort","Huile d'olive","Eau","1 magret de canard","Epices","Sel \u0026 poivre"],"title":"Risotto au roquefort et magret de canard"}
          , 
     
+        {"ingredients":["300g de riz blanc","40g de vermicelles","20g de pignons","2 càs de beurre","4 navets","1 pomme","50g de sucre","Sel \u0026 poivre"],"title":"Riz libanais de Nicole \u0026 navets confits"}
+         , 
+    
         {"ingredients":["2 sucrines","2 tomates (de différentes couleurs si possible)","1 corne orange","1/2 poivron rouge","10 feuilles de basilic","1/2 citron","1 yaourt blanc","Sel \u0026 poivre"],"title":"Salade Capucin"}
          , 
     
@@ -50,6 +65,12 @@
          , 
     
         {"ingredients":["400g de thon rouge frais","1 mange","1 fruit de la passion","8-10 feuilles de menthe","Sauce sucré","Sauce Maggi-Maggi","20g de pistaches grillées","Sel \u0026 poivre"],"title":"Tartare de thon"}
+         , 
+    
+        {"ingredients":["2 côtes de porc","300g de pâtes","4 carottes","1 gousse d'ail","1 oignon","3 càs de margarine","50g de gruyère râpé","Sel, poivre"],"title":"Côtes de porc \u0026 pâtes grillées \u0026 carottes"}
+         , 
+    
+        {"ingredients":["1 blanc de poulet","1 oeuf","Chapelure","1 tomate","2 pains à hamburger","4 tranches de cheddar","Fane d'une botte de radis","1 gousse d'ail","30g de parmesan","100g d'huile d'olive","Sel, poivre"],"title":"Hamburger green crispy chicken"}
          , 
     
         {"ingredients":["2 steaks hachés","2 pains à hamburger","2 cornes ou 1 poivron","1 tomate","1/2 aubergine","Oeufs de lompe","1 oignon","3 càs de vin","4 tranches de cheddar","Sel, poivre et herbes de provence","Quelques feuilles de salade"],"title":"Hamburger steak, légumes d'été et oeufs de lompe"}

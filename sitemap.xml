@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://www.macabine.bar/recipes/brownie/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.macabine.bar/recipes/cheese-naans/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
@@ -53,7 +58,22 @@
   </url>
   
   <url>
+    <loc>https://www.macabine.bar/recipes/gateau-chocolat-valeriya/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.macabine.bar/recipes/flageolets-julien/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/recipes/pancakes-megan/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/recipes/mousse-chocolat/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
@@ -73,6 +93,11 @@
   </url>
   
   <url>
+    <loc>https://www.macabine.bar/recipes/riz-libanais-navets-confits/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.macabine.bar/recipes/salade-capucins/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
@@ -85,6 +110,16 @@
   <url>
     <loc>https://www.macabine.bar/recipes/tartare-thon/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/recipes/cote-de-porc-pates-grillees-carottes/</loc>
+    <lastmod>2020-01-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/recipes/hamburger-crispy-chicken/</loc>
+    <lastmod>2020-01-23T21:04:48+01:00</lastmod>
   </url>
   
   <url>
@@ -109,13 +144,13 @@
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/cat%C3%A9gories/ap%C3%A9ro/</loc>
+    <loc>https://www.macabine.bar/tags/ap%C3%A9ro/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/tags/ap%C3%A9ro/</loc>
+    <loc>https://www.macabine.bar/cat%C3%A9gories/ap%C3%A9ro/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -128,6 +163,12 @@
   
   <url>
     <loc>https://www.macabine.bar/cat%C3%A9gories/boisson/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/tags/brunch/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -151,19 +192,25 @@
   </url>
   
   <url>
+    <loc>https://www.macabine.bar/tags/chocolat/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.macabine.bar/tags/cr%C3%A8pes/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/cat%C3%A9gories/dessert/</loc>
+    <loc>https://www.macabine.bar/tags/dessert/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/tags/dessert/</loc>
+    <loc>https://www.macabine.bar/cat%C3%A9gories/dessert/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -206,6 +253,12 @@
   
   <url>
     <loc>https://www.macabine.bar/tags/fruit-de-mer/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/tags/gateau/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -265,13 +318,13 @@
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/cat%C3%A9gories/poisson/</loc>
+    <loc>https://www.macabine.bar/tags/poisson/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/tags/poisson/</loc>
+    <loc>https://www.macabine.bar/cat%C3%A9gories/poisson/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -313,13 +366,13 @@
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/cat%C3%A9gories/salade/</loc>
+    <loc>https://www.macabine.bar/tags/salade/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/tags/salade/</loc>
+    <loc>https://www.macabine.bar/cat%C3%A9gories/salade/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -367,13 +420,13 @@
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/cat%C3%A9gories/viande/</loc>
+    <loc>https://www.macabine.bar/tags/viande/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/tags/viande/</loc>
+    <loc>https://www.macabine.bar/cat%C3%A9gories/viande/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
     <priority>0</priority>
   </url>
