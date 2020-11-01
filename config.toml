@@ -1,4 +1,4 @@
-baseURL = "https://www.macabine.bar/"
+baseURL = "https://www.macabine.bar"
 languageCode = "en-us"
 title = "Ma cabine point barre."
 theme = "gochowdown"
