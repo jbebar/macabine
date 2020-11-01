@@ -10,7 +10,7 @@ jobs:
     # Name the Job
     name: publish
     # Set the type of machine to run on
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
 
     steps:
       # Checks out a copy of your repository on the ubuntu-latest machine
@@ -20,8 +20,11 @@ jobs:
           submodules: true
       - name: Install hugo
         run: |
-          sudo apt-get update
-          sudo apt-get install hugo
+          apt-get install curl
+          curl -L https://github.com/gohugoio/hugo/releases/download/v0.77.0/hugo_0.77.0_Linux-64bit.deb > hugo.deb
+          dpkg -i hugo.deb
+          hugo version
+        working-directory: /home/
       - name: Checkout gh-pages branch
         run: |
           git clone https://github.com/jbebar/macabine.git macabine-build
@@ -36,7 +39,7 @@ jobs:
         run: |
           ls -a
           git status
-          git config --global user.name "the-CI-bot"
+          git config --global user.name "ci-bot"
           git remote set-url --push origin https://jbebar:${{ secrets.GITHUB_TOKEN }}@github.com/jbebar/macabine.git
           git commit -am "Update site"
           git push --set-upstream origin gh-pages
