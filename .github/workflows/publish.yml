@@ -25,7 +25,7 @@ jobs:
           git checkout gh-pages
         working-directory: /home/runner/work/macabine
       - name: Build website using docker
-        run: docker run -v /home/runner/work/macabine:/mnt klakegg/hugo "--source ./mnt/macabine --destination /mnt/macabine-build"
+        run: docker run -v /home/runner/work/macabine:/mnt klakegg/hugo "--source /mnt/macabine --destination /mnt/macabine-build"
         working-directory: /home/runner/work/macabine
       - name: Push to gh-pages branch
         run: |
