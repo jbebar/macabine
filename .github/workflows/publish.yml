@@ -22,7 +22,7 @@ jobs:
         run: |
           apt-get install curl
           curl -L https://github.com/gohugoio/hugo/releases/download/v0.77.0/hugo_0.77.0_Linux-64bit.deb > hugo.deb
-          dpkg -i hugo.deb
+          sudo dpkg -i hugo.deb
           hugo version
         working-directory: /home/
       - name: Checkout gh-pages branch
