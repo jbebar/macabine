@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pâte on Ma cabine point barre.</title>
+    <title>pâte on Ma cabine point barre.</title>
     <link>https://www.macabine.bar/tags/p%C3%A2te/</link>
-    <description>Recent content in Pâte on Ma cabine point barre.</description>
+    <description>Recent content in pâte on Ma cabine point barre.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Feb 2020 21:04:48 +0100</lastBuildDate>
-    
-	<atom:link href="https://www.macabine.bar/tags/p%C3%A2te/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 23 Feb 2020 21:04:48 +0100</lastBuildDate><atom:link href="https://www.macabine.bar/tags/p%C3%A2te/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Croziflette</title>
       <link>https://www.macabine.bar/recipes/croziflette/</link>

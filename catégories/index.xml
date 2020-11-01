@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Catégories on Ma cabine point barre.</title>
@@ -6,13 +6,9 @@
     <description>Recent content in Catégories on Ma cabine point barre.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Feb 2020 21:04:48 +0100</lastBuildDate>
-    
-	<atom:link href="https://www.macabine.bar/cat%C3%A9gories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 23 Feb 2020 21:04:48 +0100</lastBuildDate><atom:link href="https://www.macabine.bar/cat%C3%A9gories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apéro</title>
+      <title>apéro</title>
       <link>https://www.macabine.bar/cat%C3%A9gories/ap%C3%A9ro/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
@@ -21,7 +17,7 @@
     </item>
     
     <item>
-      <title>Boisson</title>
+      <title>boisson</title>
       <link>https://www.macabine.bar/cat%C3%A9gories/boisson/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
@@ -30,7 +26,7 @@
     </item>
     
     <item>
-      <title>Dessert</title>
+      <title>dessert</title>
       <link>https://www.macabine.bar/cat%C3%A9gories/dessert/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
@@ -39,7 +35,7 @@
     </item>
     
     <item>
-      <title>Plat</title>
+      <title>plat</title>
       <link>https://www.macabine.bar/cat%C3%A9gories/plat/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
@@ -48,7 +44,7 @@
     </item>
     
     <item>
-      <title>Poisson</title>
+      <title>poisson</title>
       <link>https://www.macabine.bar/cat%C3%A9gories/poisson/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
@@ -57,7 +53,7 @@
     </item>
     
     <item>
-      <title>Salade</title>
+      <title>salade</title>
       <link>https://www.macabine.bar/cat%C3%A9gories/salade/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
@@ -66,7 +62,7 @@
     </item>
     
     <item>
-      <title>Tarte</title>
+      <title>tarte</title>
       <link>https://www.macabine.bar/cat%C3%A9gories/tarte/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
@@ -75,7 +71,7 @@
     </item>
     
     <item>
-      <title>Viande</title>
+      <title>viande</title>
       <link>https://www.macabine.bar/cat%C3%A9gories/viande/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
