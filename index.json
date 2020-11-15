@@ -64,10 +64,13 @@
         {"ingredients":["2 sucrines","2 tomates (de différentes couleurs si possible)","1 corne orange","1/2 poivron rouge","10 feuilles de basilic","1/2 citron","1 yaourt blanc","Sel \u0026 poivre"],"title":"Salade Capucin"}
          , 
     
-        {"ingredients":["10 feuilles de brick","4 tomates","Fromage (gruyère, chèvre...)","Chorizzo","Basilic","Origan","Sel \u0026 poivre","Oeufs (optionnel)"],"title":"Samoussas tomates-chorizzo"}
+        {"ingredients":["10 feuilles de brick","4 tomates","Fromage (gruyère, chèvre...)","Chorizzo","Basilic","Origan","Sel \u0026 poivre","Oeufs (optionnel)"],"title":"Samoussas Tomates Chorizzo"}
          , 
     
         {"ingredients":["1 botte de cresson","1 oignon","1 gousse d'ail","2 pomme de terres agata","2 càs de crème","2 litres d'eau","sel et poivre"],"title":"Soupe de cresson"}
+         , 
+    
+        {"ingredients":["1 poireau","1 oignon","2 pomme de terres agata","3 carottes","2 litres d'eau","sel et poivre"],"title":"Soupe de mes Mémés"}
          , 
     
         {"ingredients":["400g de thon rouge frais","1 mange","1 fruit de la passion","8-10 feuilles de menthe","Sauce sucré","Sauce Maggi-Maggi","20g de pistaches grillées","Sel \u0026 poivre"],"title":"Tartare de thon"}
