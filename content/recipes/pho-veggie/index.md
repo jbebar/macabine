@@ -32,7 +32,7 @@ ingredients:
 - 2 oeufs
 - 1 bouillon cube
 - Sauce Kikkoman
-- Vimaigre
+- Vinaigre
 - 5 branches de coriandre fraiche
 - 20g de pousses de soja
 - 100g de pates de riz
