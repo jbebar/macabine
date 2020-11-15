@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>soupe on Ma cabine point barre.</title>
+    <link>https://www.macabine.bar/tags/soupe/</link>
+    <description>Recent content in soupe on Ma cabine point barre.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Feb 2020 21:04:48 +0100</lastBuildDate><atom:link href="https://www.macabine.bar/tags/soupe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soupe de cresson</title>
+      <link>https://www.macabine.bar/recipes/soupe-cresson/</link>
+      <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
+      
+      <guid>https://www.macabine.bar/recipes/soupe-cresson/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
