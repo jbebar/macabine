@@ -34,6 +34,7 @@ ingredients:
 - Sauce Kikkoman
 - Vimaigre
 - 5 branches de coriandre fraiche
+- 20g de pousses de soja
 - 100g de pates de riz
 directions:
 - Emincez finement l'oignon, le gingembre, et la citronnelle, 
@@ -41,7 +42,7 @@ directions:
 - Faites les infuser et gonfler dans 1 litre d'eau salée, et portez à ébulition, 
 - Ajoutez le bouillon cube, et quelques feuilles de coriandre, et un peu de sauce kikkoman,
 - Laissez bouillir une quizaine de minutes. 
-- Disposez dans les assiettes creuses, les pates de riz (non cuites), des feuilles de coriandre, et un quartier de citron. 
+- Disposez dans les assiettes creuses, les pates de riz (non cuites), des feuilles de coriandre, un quartier de citron et les pousses de soja 
 - Dans une autre casserole (plutôt grande), portez à ebullition 2L d'eau avec du vinaigre. 
 - Une fois que l'eau bout, avec un fouet, faites un tourbillon au milieu de la casserole et cassez un oeuf. Laissez-le cuire 3 minutes. 
 - En attendant, versez le bouillon du phô dans votre assiette, et une fois que votre oeuf est cuit, ajoutez-le. Salez et poivrez et ajoutez de la sauce kikkoman si nécessaire et pressez du citron, ou ajoutez un piment oiseau pour les plus courageux ! 

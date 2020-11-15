@@ -32,7 +32,6 @@ ingredients:
 - 1/2 botte de menthe fraiche
 - 1 baton de citronnelle
 - 2 gousses d'ail
-- 20g de pousses de soja
 - Sauce Nuoc mam
 - 3 càs de sel fin
 - Huile de friture
