@@ -3,7 +3,7 @@ layout: recipe
 date: 2020-02-23T21:04:48+01:00
 draft: false    
 title:  "Nems vietnamiens" # The title of your awesome recipe
-image:   # Name of image in recipe bundle
+image:   ./ nems-vietnamiens.jpg # Name of image in recipe bundle
 #imagecredit: https://placekitten.com/600/800 # URL to image source page, website, or creator
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author
@@ -47,5 +47,5 @@ directions:
 - Faites chauffer l'huile dans un wok, ou une grande casserole.
 - Préparez une passoire recouverte de papier absorbant. Lorsque l'huile est chaude, y plonger les rouleaux par 5 (ou moins si la casserole n'est pas assez grande, il ne faut pas que les rouleaux se touchents !) et les frire en précuisson. Les laisser ensuite reposer dans la passoire ou dans la grille pour les égoutter.
 - Faites chauffer votre four à 220° en mode chaleur tournante et grill, et faites dorer 10min de chaque côté les nems.  
-- Une fois grillés, ils sont très bon chauds avec de la sauce nuoc mam, et enroulés dans une feuille de laitues et de la menthe fraiche.
+- Une fois grillés, ils sont très bons, chauds avec de la sauce nuoc mam, et enroulés dans une feuille de laitues et de la menthe fraiche.
 ---
