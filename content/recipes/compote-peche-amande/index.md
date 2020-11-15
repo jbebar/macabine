@@ -16,6 +16,7 @@ tags:
   - healthy
   - fruit
   - veggie
+  - été
 yield: 1 euro
 prepTime: 10 h
 cookTime: 10 min

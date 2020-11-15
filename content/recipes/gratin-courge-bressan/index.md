@@ -23,7 +23,7 @@ cookTime: 45 min
 ingredients:
 - 800g de courge
 - 2 càs de farine
-- 2 oeufs
+- 1 oeuf
 - 100ml de lait
 - 50g de sucre
 - sel et poivre
@@ -33,7 +33,7 @@ directions:
 - Faites cuire 20min dans de l'eau bouillante et salée les morceaux de courges. Ils sont cuits lorsque le couteau glisse quand vous les piquez,
 - Préchauffez le four à 180°,
 - Egouttez, et dans un récipient moulinez la courge avec le lait. Il faut que le mélange soit bien lisse,
-- Ajoutez à la préparation la farine, le sucre, le gruyère rapé, et les oeufs, 
+- Ajoutez à la préparation la farine, le sucre, le gruyère rapé, et l'oeuf, 
 - Assaisonnez avec du sel et du poivre
 - Puis enfounez dans un plat à gratin pour une grosse vingtaine de minutes.
 - Mémé Guiguite le fait salé. Choisissez votre camp ! 

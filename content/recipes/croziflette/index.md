@@ -15,6 +15,7 @@ tags:
   - pâte
   - fat
   - favorite
+  - hiver
 yield:  5 euros
 prepTime: 45 min
 cookTime: 40 min

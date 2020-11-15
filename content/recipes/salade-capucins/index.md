@@ -15,7 +15,7 @@ tags:
   - fresh
   - healthy
   - salade
-  - summer
+  - été
   - veggie
 yield: 6 euros
 prepTime: 10 min

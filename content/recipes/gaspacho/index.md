@@ -17,6 +17,7 @@ tags:
   - tomate
   - épicé
   - veggie
+  - été
 yield: 5 euros
 prepTime: 15 min
 cookTime: 0 min

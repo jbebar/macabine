@@ -14,6 +14,8 @@ catégories: plat # The type of meal or course your recipe is about. For example
 tags:
   - oriental
   - veggie
+  - printemps
+  - été
 yield: 1,50 euro
 prepTime: 15 min
 cookTime: 10 min

@@ -17,6 +17,10 @@ tags:
   - poisson
   - favorite
   - fruit de mer
+  - été
+  - printemps
+  - automne
+  - hiver
 yield: 5 euros
 prepTime: 10 min
 cookTime: 2 min

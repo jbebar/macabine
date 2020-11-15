@@ -14,7 +14,8 @@ catégories: plat # The type of meal or course your recipe is about. For example
 tags:
   - légumineuse
   - fat
-  - winter
+  - automne
+  - hiver
 yield: 5 euros
 prepTime: 10 min
 cookTime: 10 min
