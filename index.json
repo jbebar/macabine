@@ -49,6 +49,9 @@
         {"ingredients":["4 oeufs (3 jaunes, 4 blancs)","200g de chocolat noir","1 café expresso"],"title":"Mousse au chocolat"}
          , 
     
+        {"ingredients":["10g de champignons noirs séchés","1 oinon","1 baton de citronnelle","2 cm de gingembre frais (2 càc de gingembre moulu)","1/2 citron","1 piment oiseau","sel, poivre","2 oeufs","1 bouillon cube","Sauce Kikkoman","Vimaigre","5 branches de coriandre fraiche","100g de pates de riz"],"title":"Phô veggie"}
+         , 
+    
         {"ingredients":["500g de carottes","2 cuillères à café de cumin (moulu ou en grain)","Sel \u0026 poivre","Un filet d'huile d'olive"],"title":"Purée carotte \u0026 cumin"}
          , 
     
@@ -71,6 +74,9 @@
          , 
     
         {"ingredients":["1 poireau","1 oignon","2 pomme de terres agata","3 carottes","2 litres d'eau","sel et poivre"],"title":"Soupe de mes Mémés"}
+         , 
+    
+        {"ingredients":["200g de pois-chiches (égouttés)","2 patates douces (~300/350g)","200g de lentilles corail","400 de tomates concassées en boîte","1 oinon","3 gousse d'ail","2 cm de gingembre frais (2 càc de gingembre moulu)","1 citron vert","2 càc de paprika","2 càc de coriandre","1 càc de cumin","sel, poivre","Quelques feuilles de coriandre fraiche"],"title":"Soupe patates douces et pois chiches"}
          , 
     
         {"ingredients":["400g de thon rouge frais","1 mange","1 fruit de la passion","8-10 feuilles de menthe","Sauce sucré","Sauce Maggi-Maggi","20g de pistaches grillées","Sel \u0026 poivre"],"title":"Tartare de thon"}
