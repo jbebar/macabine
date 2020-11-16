@@ -43,11 +43,6 @@
   </url>
   
   <url>
-    <loc>https://www.macabine.bar/cat%C3%A9gories/boisson/</loc>
-    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.macabine.bar/recipes/boulette-de-poulets-citron/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
@@ -284,6 +279,11 @@
   
   <url>
     <loc>https://www.macabine.bar/tags/pomme-de-terre/</loc>
+    <lastmod>2020-02-23T21:04:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.macabine.bar/recipes/pommes-au-four/</loc>
     <lastmod>2020-02-23T21:04:48+01:00</lastmod>
   </url>
   
