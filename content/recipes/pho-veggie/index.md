@@ -22,10 +22,12 @@ prepTime: 10 min
 cookTime: 20 min
 
 ingredients:
-- 10g de champignons noirs séchés
+- 6 champignons noirs séchés
 - 1 oinon
 - 1 baton de citronnelle
 - 2 cm de gingembre frais (2 càc de gingembre moulu)
+- 1 càs de graisse de canard
+- Des feuilles de céleri
 - 1/2 citron 
 - 1 piment oiseau
 - sel, poivre
@@ -37,11 +39,11 @@ ingredients:
 - 20g de pousses de soja
 - 100g de pates de riz
 directions:
-- Emincez finement l'oignon, le gingembre, et la citronnelle, 
+- Emincez finement l'oignon, le gingembre, et la citronnelle, les feuilles de céleri
 - Coupez un peu les champignons séchez,
 - Faites les infuser et gonfler dans 1 litre d'eau salée, et portez à ébulition, 
-- Ajoutez le bouillon cube, et quelques feuilles de coriandre, et un peu de sauce kikkoman,
-- Laissez bouillir une quizaine de minutes. 
+- Ajoutez le bouillon cube, la graisse de canard, quelques feuilles de coriandre et de céleri, et un peu de sauce kikkoman,
+- Laissez bouillir une quinzaine de minutes. 
 - Disposez dans les assiettes creuses, les pates de riz (non cuites), des feuilles de coriandre, un quartier de citron et les pousses de soja 
 - Dans une autre casserole (plutôt grande), portez à ebullition 2L d'eau avec du vinaigre. 
 - Une fois que l'eau bout, avec un fouet, faites un tourbillon au milieu de la casserole et cassez un oeuf. Laissez-le cuire 3 minutes. 
