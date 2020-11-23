@@ -15,6 +15,7 @@ tags:
   - pâte
   - fat
   - favorite
+  - gratin
 yield:  5 euros
 prepTime: 35 min
 cookTime: 30 min

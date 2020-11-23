@@ -14,13 +14,15 @@ catégories: plat # The type of meal or course your recipe is about. For example
 tags:
   - automne
   - hiver
+  - gratin
+  - veggie 
 yield: 3 euros
 prepTime: 15 min
 cookTime: 40 min
 
 ingredients:
 - 1 choux-fleur
-- 100 g de chapelur ou de biscotte
+- 100 g de chapelure ou de biscotte
 - 60 g de beurre
 - 60 g de farine
 - 70 cl de lait
@@ -31,6 +33,7 @@ directions:
 - Faites le cuire à la vapeur une vingtaine de minutes. Le choux-fleur est cuit lorsqu'il glisse dans vous le piquez avec un couteau. 
 - Une fois que les bouts de choux-fleurs sont cuits, déposez-les au fond d'un plat à gratin. 
 - Pour la béchamel, faites fondre le beurre dans une casserole, ajoutez la farine d’un coup en mélangeant vivement. Continuez à mélanger, vous allez obtenir une pâte. Ajoutez alors le lait peu à peu en continuant de mélanger. Continuez la cuisson en mélangeant constamment jusqu'à obtenir une sauce onctueuse.
--Versez la béchamel dans le plat à gratin sur les bouts de choux-fleur.
+- Versez la béchamel dans le plat à gratin sur les bouts de choux-fleur.
 - Sur le dessus du gratin versez la chapelure ou cassez les biscotte en miette et enfournez 30 min à 180°C.
+- Julien fait aussi ce gratin avec du brocolis !
 ---

@@ -32,5 +32,5 @@ directions:
 - Faites chauffer l'huile d'olive dans un poêle, puis faites saisir les endives 5 minutes de chaque côté. Une fois dorées, faites cuire les endives une vingtaine de minutes à couvert.
 - Une fois que les endives sont cuites, roulez-lez dans les tranches de jambon, et déposez-les au fond d'un plat à gratin. 
 - Pour la béchamel, faites fondre le beurre dans une casserole, ajoutez la farine d’un coup en mélangeant vivement. Continuez à mélanger, vous allez obtenir une pâte. Ajoutez alors le lait peu à peu en continuant de mélanger. Continuez la cuisson en mélangeant constamment jusqu'à obtenir une sauce onctueuse.
--Versez la béchamel dans le plat à gratin sur les endives et répartissez l’emmental râpé dessus et enfournez 30 min à 180°C.
+- Versez la béchamel dans le plat à gratin sur les endives et répartissez l’emmental râpé dessus et enfournez 30 min à 180°C.
 ---
