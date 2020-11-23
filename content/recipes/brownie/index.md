@@ -21,6 +21,7 @@ cookTime: 30 min
 ingredients:
   - 300g de beurre
   - 500g de chocolat noir
+  - 5 oeufs
   - 500g de sucre
   - 100g de farine
   - 150g de noisettes
