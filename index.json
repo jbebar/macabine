@@ -7,7 +7,7 @@
         {"ingredients":["2 blancs de poulet","1 oeuf","1 jus de citron","Zeste de citron","2 biscottes, ou 4 cuillères de panure","Herbes de provence","Sel \u0026 poivre","huile d'olive","1 yaourt blanc"],"title":"Boulettes citronées au poulet"}
          , 
     
-        {"ingredients":["300g de beurre","500g de chocolat noir","500g de sucre","100g de farine","150g de noisettes","150g d'amande","3 pincées de fleur de sel"],"title":"Brownie"}
+        {"ingredients":["300g de beurre","500g de chocolat noir","5 oeufs","500g de sucre","100g de farine","150g de noisettes","150g d'amande","3 pincées de fleur de sel"],"title":"Brownie"}
          , 
     
         {"ingredients":["500 g de farine de blé","18 cl d’eau","125 g de yaourt bulgare (soit 1 pot)","4 c. à soupe d’huile végétale","1 c. à café de sel","1 c. à café de sucre","2 pincée de levure chimique","8 g de levure boulanger","12 portions de vache qui rit (2 par naans)"],"title":"Cheese Naans Cévenols"}
@@ -89,6 +89,9 @@
          , 
     
         {"ingredients":["1 boite de petits pois (800g)","1 oignon","1 gousse d'ail","1 poignée de feuilles de menthe","3 carottes","1 litre d'eau","10cl de crème liquide","sel et poivre"],"title":"Soupe menthe et petits-pois"}
+         , 
+    
+        {"ingredients":["200g de pois-chiches (égouttés)","5 patates douces (~800g)","1 petite brique de lait de coco","1 oinon","2 gousses d'ail","2 càc de paprika","1 càc de muscade","2 càc de curry","sel, poivre"],"title":"Soupe patates douces et coco"}
          , 
     
         {"ingredients":["200g de pois-chiches (égouttés)","2 patates douces (~300/350g)","200g de lentilles corail","400 de tomates concassées en boîte","1 oinon","3 gousse d'ail","2 cm de gingembre frais (2 càc de gingembre moulu)","1 citron vert","2 càc de paprika","2 càc de coriandre","1 càc de cumin","sel, poivre","Quelques feuilles de coriandre fraiche"],"title":"Soupe patates douces et pois chiches"}
