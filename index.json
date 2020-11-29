@@ -79,6 +79,9 @@
         {"ingredients":["500g de carottes","2 cuillères à café de cumin (moulu ou en grain)","Sel \u0026 poivre","Un filet d'huile d'olive"],"title":"Purée carotte \u0026 cumin"}
          , 
     
+        {"ingredients":["200g de farine","1 pincée de sel","100g de beurre mou","1 jaune d'oeuf","2cl d'eau"],"title":"Pâte brisée"}
+         , 
+    
         {"ingredients":["1 brique de crème liquide","0,4 litre de lait","200g de gruyère","3 tranches de jambon","3 oeufs","2 càs de farine","1 oignon (facultatif)","Sel \u0026 poivre","Beurre"],"title":"Quiche sans pâte"}
          , 
     
@@ -107,6 +110,9 @@
          , 
     
         {"ingredients":["200g de pois-chiches (égouttés)","2 patates douces (~300/350g)","200g de lentilles corail","400 de tomates concassées en boîte","1 oinon","3 gousse d'ail","2 cm de gingembre frais (2 càc de gingembre moulu)","1 citron vert","2 càc de paprika","2 càc de coriandre","1 càc de cumin","sel, poivre","Quelques feuilles de coriandre fraiche"],"title":"Soupe patates douces et pois chiches"}
+         , 
+    
+        {"ingredients":["400g de maïs (égouttés)","1 poivron","1 oignon","1 gousse d'ail","1/2 citron vert","2 pincées de piment de cayenne en poudre","sel, poivre","10cl de crème liquide"],"title":"Soupe péruvienne de maïs"}
          , 
     
         {"ingredients":["1 céleri-rave","Huile d'olive","10cl de vin blanc","1 gousse d'ail hachée","10cl de vinaigre blanc","50g de parmesan","4 oeufs","4 jaunes d'oeufs","1 pincée de fleur de sel","Sel \u0026 poivre"],"title":"Spaghetti de céléri carbonara et oeufs pochés"}
