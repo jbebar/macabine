@@ -23,7 +23,7 @@ cookTime: 20 min
 ingredients:
 - 400g de maïs (égouttés)
 - 1 poivron
-- 1 oinon
+- 1 oignon
 - 1 gousse d'ail
 - 1/2 citron vert
 - 2 pincées de piment de cayenne en poudre
