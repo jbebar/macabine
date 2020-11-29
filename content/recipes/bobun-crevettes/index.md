@@ -36,7 +36,7 @@ ingredients:
 - 1 gousse d'ail
 - Sauce Nuoc mam
 - Sauce kikkoman
-- 50g de vermicelles de riz
+- 200g de vermicelles de riz
 - 1/2 grenade
 - 4 càs de graines de chia 
 - 15g de pistaches
