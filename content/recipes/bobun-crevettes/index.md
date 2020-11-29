@@ -39,7 +39,7 @@ ingredients:
 - 50g de vermicelles de riz
 - 1/2 grenade
 - 4 càs de graines de chia 
-- 15g de pistache
+- 15g de pistaches
 directions:
 - Epluchez l'oignon et émincez-le finement. Puis, faites le mariner dans un bol avec du vinaigre et du sucre le temps de toute la préparation. Remuez le mélange de temps en temps. 
 - Faites gonfler les champignons noirs dans de l'eau chaude.
@@ -49,6 +49,6 @@ directions:
 - Emincez finement la branche de céleri, et les champignons noirs égouttés, coupez en rondelle le concombre.
 - Dans une poêle faites chauffez les crevettes et assaisonnez les avec du curry.
 - Une fois que le bouillon est bien aromatisé, passez le au chinois pour récupérer le jus. Trempez dans ce jus chaud les vermicelles.
-- Égouttez ensuite les vermicelles. Déposez-les au centre d'une assiette creuse et disposez autour tous les légumes (céleri, concombre,champignong et grenade) et les crevettes. Ciselez par-dessus les feuilles de menthe et de coriandre et parsemez le tout de pistaches grillées. 
+- Égouttez ensuite les vermicelles. Déposez-les au centre d'une assiette creuse et disposez autour tous les légumes (céleri, concombre,champignons, oignon et grenade) et les crevettes. Ciselez par-dessus les feuilles de menthe et de coriandre et parsemez le tout de pistaches grillées et de graines de chia. 
 
 ---
