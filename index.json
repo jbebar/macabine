@@ -4,7 +4,7 @@
         {"ingredients":["300g d'anneaux de calamars","125g de farine","1 oeuf","10cl de lait","5cl d'eau","1 sachet de levure chimique","huile de friture (huile de pépin de raisin)","1 pincé de sel"],"title":"Beignets de calamars"}
          , 
     
-        {"ingredients":["10 crevettes","2 càc de curry","5g de Champignons noirs déshydratés","1 Oignon rouge","Vinaire de riz","Sucre","1/2 concombre","10 feuilles de coriandre fraîche","10 feuilles de menthe fraiche","1 baton de citronnelle","1 branche de céleri","1 gousse d'ail","Sauce Nuoc mam","Sauce kikkoman","50g de vermicelles de riz","1/2 grenade","4 càs de graines de chia","15g de pistaches"],"title":"Bobun aux crevettes"}
+        {"ingredients":["10 crevettes","2 càc de curry","5g de Champignons noirs déshydratés","1 Oignon rouge","Vinaire de riz","Sucre","1/2 concombre","10 feuilles de coriandre fraîche","10 feuilles de menthe fraiche","1 baton de citronnelle","1 branche de céleri","1 gousse d'ail","Sauce Nuoc mam","Sauce kikkoman","200g de vermicelles de riz","1/2 grenade","4 càs de graines de chia","15g de pistaches"],"title":"Bobun aux crevettes"}
          , 
     
         {"ingredients":["2 blancs de poulet","1 oeuf","1 jus de citron","Zeste de citron","2 biscottes, ou 4 cuillères de panure","Herbes de provence","Sel \u0026 poivre","huile d'olive","1 yaourt blanc"],"title":"Boulettes citronées au poulet"}
@@ -20,6 +20,9 @@
          , 
     
         {"ingredients":["250g de semoule fine","Eau","Huile d'olive","4 merguez","2 cuisses de poulet","1 oignon","2 gousses d'ail","4 carottes","2 courgettes","2 tomates","1 branche de célerie","3 càs de concentré de tomate","1 piment oiseau","Epices à couscous","Sauce harissa","Sel \u0026 poivre"],"title":"Couscous"}
+         , 
+    
+        {"ingredients":["5 tranches de pain de mie","6 tranches de jambon","1 poignée de gruyère râpé","50g de beurre","50g de farine","50cl de lait","150g de gruyère râpé","sel et poivre"],"title":"Croque-Monsieur"}
          , 
     
         {"ingredients":["1 paquet de crozet","1 pot de crème fraiche","1 paquet de gruyère","1 ou 2 barquettes de lardon","1 oignon","Sel \u0026 poivre"],"title":"Croziflette"}
