@@ -25,8 +25,8 @@ jobs:
           git checkout gh-pages
       - name: Clean previous version
         run: |
-          ls | xargs -d"\n" rm -rf
-        working-directory: /home/runner/work/macabine/macabine-build
+          ls
+        working-directory: /home/runner/work/macabine
       - name: Build website using docker
         run: docker run -v /home/runner/work/macabine:/mnt klakegg/hugo "--source /mnt/macabine --destination /mnt/macabine-build"
         working-directory: /home/runner/work/macabine
