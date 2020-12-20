@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>poisson on Ma cabine point barre.</title>
-    <link>https://www.macabine.bar/cat%C3%A9gories/poisson/</link>
+    <link>https://jbebar.github.io/macabine/cat%C3%A9gories/poisson/</link>
     <description>Recent content in poisson on Ma cabine point barre.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Feb 2020 21:04:48 +0100</lastBuildDate><atom:link href="https://www.macabine.bar/cat%C3%A9gories/poisson/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Feb 2020 21:04:48 +0100</lastBuildDate><atom:link href="https://jbebar.github.io/macabine/cat%C3%A9gories/poisson/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beignets de calamars</title>
-      <link>https://www.macabine.bar/recipes/beignet-calamar/</link>
+      <link>https://jbebar.github.io/macabine/recipes/beignet-calamar/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
-      <guid>https://www.macabine.bar/recipes/beignet-calamar/</guid>
+      <guid>https://jbebar.github.io/macabine/recipes/beignet-calamar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tartare de thon</title>
-      <link>https://www.macabine.bar/recipes/tartare-thon/</link>
+      <link>https://jbebar.github.io/macabine/recipes/tartare-thon/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
-      <guid>https://www.macabine.bar/recipes/tartare-thon/</guid>
+      <guid>https://jbebar.github.io/macabine/recipes/tartare-thon/</guid>
       <description></description>
     </item>
     

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>salade on Ma cabine point barre.</title>
-    <link>https://www.macabine.bar/cat%C3%A9gories/salade/</link>
+    <link>https://jbebar.github.io/macabine/cat%C3%A9gories/salade/</link>
     <description>Recent content in salade on Ma cabine point barre.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Feb 2020 21:04:48 +0100</lastBuildDate><atom:link href="https://www.macabine.bar/cat%C3%A9gories/salade/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Feb 2020 21:04:48 +0100</lastBuildDate><atom:link href="https://jbebar.github.io/macabine/cat%C3%A9gories/salade/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Purée carotte &amp; cumin</title>
-      <link>https://www.macabine.bar/recipes/puree-carotte-cumin/</link>
+      <link>https://jbebar.github.io/macabine/recipes/puree-carotte-cumin/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
-      <guid>https://www.macabine.bar/recipes/puree-carotte-cumin/</guid>
+      <guid>https://jbebar.github.io/macabine/recipes/puree-carotte-cumin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Salade Capucin</title>
-      <link>https://www.macabine.bar/recipes/salade-capucins/</link>
+      <link>https://jbebar.github.io/macabine/recipes/salade-capucins/</link>
       <pubDate>Sun, 23 Feb 2020 21:04:48 +0100</pubDate>
       
-      <guid>https://www.macabine.bar/recipes/salade-capucins/</guid>
+      <guid>https://jbebar.github.io/macabine/recipes/salade-capucins/</guid>
       <description></description>
     </item>
     
