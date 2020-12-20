@@ -18,19 +18,19 @@ jobs:
         uses: actions/checkout@v2
         with:
           submodules: true
-      - name: Checkout gh-pages branch
+      - name: Checkout previous build
         run: |
           git clone https://github.com/jbebar/macabine.git macabine-build
           cd macabine-build
           git checkout gh-pages
-      - name: Clean previous version
-        run: |
-          ls
         working-directory: /home/runner/work/macabine
-      - name: Build website using docker
+      - name: Clean previous build
+        run: ls | xargs -d"\n" rm -rf
+        working-directory: /home/runner/work/macabine/macabine-build
+      - name: Build website in build directory
         run: docker run -v /home/runner/work/macabine:/mnt klakegg/hugo "--source /mnt/macabine --destination /mnt/macabine-build"
         working-directory: /home/runner/work/macabine
-      - name: Push to gh-pages branch
+      - name: Push build to gh-pages branch
         run: |
           git status --porcelain
           git config --global user.name "ci-bot"
