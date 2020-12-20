@@ -1,4 +1,4 @@
-baseURL = "https://jbebar.github.io/macabine/"
+baseURL = "https://jbebar.github.io/macabine"
 languageCode = "en-us"
 title = "Ma cabine point barre."
 theme = "gochowdown"
