@@ -23,14 +23,18 @@ jobs:
           git clone https://github.com/jbebar/macabine.git macabine-build
           cd macabine-build
           git checkout gh-pages
+      - name: Clean previous version
+        run: |
+          ls | xargs -d"\n" rm -rf
+          cd macabine-build
+          git checkout gh-pages
         working-directory: /home/runner/work/macabine
       - name: Build website using docker
         run: docker run -v /home/runner/work/macabine:/mnt klakegg/hugo "--source /mnt/macabine --destination /mnt/macabine-build"
         working-directory: /home/runner/work/macabine
       - name: Push to gh-pages branch
         run: |
-          ls -a
-          git status
+          git status --porcelain
           git config --global user.name "ci-bot"
           git remote set-url --push origin https://jbebar:${{ secrets.GITHUB_TOKEN }}@github.com/jbebar/macabine.git
           git add .
