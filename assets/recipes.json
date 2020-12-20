@@ -1,3 +1,0 @@
-{{ range .Site.AllPages }}
-    {{ . }}
-{{ end}}
