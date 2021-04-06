@@ -2,8 +2,12 @@
 
 Static site about fat meals, made with hugo (https://gohugo.io/).
 
-== Play locally
+== Play locally 
 
 Just run this command and open the website on your browser, you can then edit and see the change immediatly:
 
 `hugo server`
+
+== Checkout the recipes 👨‍🍳
+
+https://jbebar.github.io/macabine/
