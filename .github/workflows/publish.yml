@@ -31,8 +31,8 @@ jobs:
         run: docker run -v /home/runner/work/macabine:/mnt klakegg/hugo "--source /mnt/macabine --destination /mnt/macabine-build"
         working-directory: /home/runner/work/macabine
       - name: Push build to gh-pages branch
+        if: git diff --exit-code
         run: |
-          git status --porcelain
           git config --global user.name "ci-bot"
           git remote set-url --push origin https://jbebar:${{ secrets.GITHUB_TOKEN }}@github.com/jbebar/macabine.git
           git add .
