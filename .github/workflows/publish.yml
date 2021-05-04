@@ -35,7 +35,7 @@ jobs:
           STATUS: git status --porcelain | wc -l
         if: ${{ env.STATUS != 0 }}
         run: |
-          echo ${env.STATUS}
+          echo "the git status is $STATUS"
           git config --global user.name "ci-bot"
           git remote set-url --push origin https://jbebar:${{ secrets.GITHUB_TOKEN }}@github.com/jbebar/macabine.git
           git add .
