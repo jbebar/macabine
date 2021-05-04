@@ -31,6 +31,9 @@ jobs:
         run: docker run -v /home/runner/work/macabine:/mnt klakegg/hugo "--source /mnt/macabine --destination /mnt/macabine-build"
         working-directory: /home/runner/work/macabine
       - name: Push build to gh-pages branch
+        env: 
+          STATUS: git status --porcelain | wc -l
+        if: ${{ env.STATUS != 0 }}
         run: |
           git diff --exit-code
           git config --global user.name "ci-bot"
