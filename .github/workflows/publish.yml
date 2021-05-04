@@ -32,7 +32,7 @@ jobs:
         working-directory: /home/runner/work/macabine
       - name: Push build to gh-pages branch
         env: 
-          STATUS: git status --porcelain | wc -l
+          STATUS: ${{ git status --porcelain | wc -l }}
         if: ${{ env.STATUS != 0 }}
         run: |
           echo "the git status is $STATUS"
