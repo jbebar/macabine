@@ -32,10 +32,9 @@ jobs:
         working-directory: /home/runner/work/macabine
       - name: Push build to gh-pages branch
         run: |
-          echo "the git status is $STATUS"
           git config --global user.name "ci-bot"
           git remote set-url --push origin https://jbebar:${{ secrets.GITHUB_TOKEN }}@github.com/jbebar/macabine.git
           git status --porcelain
-          status=git status --porcelain | wc -l
+          export status=git status --porcelain | wc -l
           if [ $status != "0" ]; then git commit -m "Update site" && git push --set-upstream origin gh-pages; fi;          
         working-directory: /home/runner/work/macabine/macabine-build
