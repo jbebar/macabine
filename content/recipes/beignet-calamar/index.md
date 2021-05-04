@@ -44,5 +44,5 @@ directions:
 - Après 2-3 min, tournez les beignets, pour qu'ils cuisent des deux côtés
 - Une fois qu'ils sont cuits, sortez-les et disposez les dans une passoire avec du sopalin, pour éponger l'huile...
 - Pour varier les tendances, vous pouvez aussi faire la même chose avec des oignons. Miaaam! 
-- Les beignets sont encore meilleurs (moins "huilés") le lendemain, vous n'avez qu'à les mettre à chauffer dans votre four à 180°. :) 
+- Les beignets sont encore meilleurs (moins "huilés") le lendemain, vous n'avez qu'à les mettre à chauffer dans votre four à 180° :) 
 ---
