@@ -36,5 +36,5 @@ jobs:
           git remote set-url --push origin https://jbebar:${{ secrets.GITHUB_TOKEN }}@github.com/jbebar/macabine.git
           git status --porcelain
           status=$(git status --porcelain | wc -l)
-          if [ $status != "0" ]; then git commit -m "Update site" && git push --set-upstream origin gh-pages; fi;          
+          if [ $status != "0" ]; then git add . && git commit -m "Update site" && git push --set-upstream origin gh-pages; fi;          
         working-directory: /home/runner/work/macabine/macabine-build
