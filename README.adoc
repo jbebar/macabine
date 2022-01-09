@@ -1,6 +1,6 @@
 = Macabine
 
-Static site about fat meals, made with hugo (https://gohugo.io/).
+Static site about my favorites meals, made with hugo (https://gohugo.io/) by tweaking the theme (https://github.com/seanlane/gochowdown).
 
 == Play locally 
 
