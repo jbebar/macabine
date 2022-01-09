@@ -4,7 +4,7 @@ Static site about my favorites meals, made with hugo (https://gohugo.io/) by twe
 
 == Play locally 
 
-Just run this command and open the website on your browser, you can then edit and see the change immediatly:
+Just run this command and open the website on your browser, you can then edit and see the change immediatly :
 
 `hugo server`
 
